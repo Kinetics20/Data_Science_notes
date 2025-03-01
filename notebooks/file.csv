@@ -1,0 +1,4 @@
+,bool,int,float,string,datetime,timedelta,categorical
+0,True,1,1.1,a,2000-01-01,1 days,a
+1,False,2,2.3,b,2000-01-02,2 days,b
+2,True,3,3.6,c,2000-01-03,3 days,c

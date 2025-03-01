@@ -1,9 +1,8 @@
----  
-
 # Data Science Exercises  
 
-This repository contains exercises in Data Science using Python and popular libraries such as:  
+This repository contains exercises in Data Science using Python and popular libraries.  
 
+### Libraries used:  
 - **pandas** – for data manipulation and analysis  
 - **numpy** – for numerical computations  
 - **matplotlib** – for data visualization  
@@ -13,12 +12,11 @@ This repository contains exercises in Data Science using Python and popular libr
 
 The goal of this repository is to practice working with real-world datasets, exploring data structures, performing transformations, and visualizing insights.  
 
-Feel free to explore, contribute, and experiment with the provided notebooks! 🚀
+Feel free to explore, contribute, and experiment with the provided notebooks! 🚀  
 
-💬 Feedback
----
-Contributions and suggestions are welcome!
+## 💬 Feedback  
 
-👤 Author: Piotr Lipinski
-🗓 Date: March 2025
-💬 Feedback: Contributions and suggestions are welcome!
+Contributions and suggestions are welcome!  
+
+👤 **Author**: Piotr Lipiński  
+🗓 **Date**: March 2025  

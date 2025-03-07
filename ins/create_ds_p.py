@@ -42,7 +42,7 @@ def create_pyproject_toml(base_path: Path, project_name: str):
     pyproject_content = f"""[project]
 name = "{project_name}"
 version = "0.1.0"
-description = "The repository is dedicated to exercises in python programming."
+description = "The repository is dedicated to exercises in data science and python programming."
 authors = ["Piotr Lipinski <kinetics20@gmail.com>"]
 license = "Beerware"
 readme = "README.md"
